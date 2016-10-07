@@ -662,7 +662,7 @@ with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 	
 	<mx:ControlBar width="100%" height="{footerHeight}" paddingTop="0" id="controlBar">
 		<mx:Label
-				htmlText="{ResourceUtil.getInstance().getString('bbb.mainshell.copyrightLabel2',[appVersion])}"
+				htmlText="2016 盐城市大丰区卫生计生委"
 				link="onFooterLinkClicked(event)"
 				id="copyrightLabel2" truncateToFit="true"
 				width="100%" minWidth="1"
